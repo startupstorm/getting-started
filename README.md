@@ -2,12 +2,12 @@
 
 <img src="https://media.giphy.com/media/3oz8xOJiQ9VtnOKAIU/giphy.gif" width="250">
 
-If you're absolutely new to programming, we recommned checking out either:
+If you're absolutely new to programming, we recommend checking out either:
 - [People Can Program](https://www.peoplecanprogram.com/index.html) 
 - [Codeacademy](https://www.codecademy.com/learn/all)
 
-If you know which platform you're interested in, check out links from below!  
-Not sure which one to choose? Ask experienced hacker around you! They (probably) won't bite.
+If you know which platform you're interested in, check out the links below!  
+Not sure which one to choose? Ask an experienced hacker around you! They (probably) won't bite.
  
 ### Web Development
 - [MDN Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
@@ -27,7 +27,7 @@ Not sure which one to choose? Ask experienced hacker around you! They (probably)
 - [Awesome iOS's Get Started section](https://github.com/vsouza/awesome-ios#getting-started)
 
 ### Android
-- [Official Intro to Andoird Guide](https://developer.android.com/guide/index.html)
+- [Official Intro to Android Guide](https://developer.android.com/guide/index.html)
 - [Vogella Intro to Android Development](http://www.vogella.com/tutorials/Android/article.html)
 - [Awesome Android's Resources](https://github.com/JStumpp/awesome-android#resources)
 
@@ -36,23 +36,23 @@ Not sure which one to choose? Ask experienced hacker around you! They (probably)
 - [Github Hello World](https://guides.github.com/activities/hello-world/)
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 
-### Specific Language
+### Specific Languages
 Find a language's awesome-list from [this page](https://github.com/sindresorhus/awesome#programming-languages), and look for "Resources" section for good tutorials
 
 ## Contributing
-Know really good tutorial / resource? PRs welcome!
+Know a really good tutorial / resource? PRs welcome!
 
 ## FAQ
-Have no idea where to start with programming?  
-Try starting with [People Can Program](https://www.peoplecanprogram.com/index.html)  or any track from [Codeacademy](https://www.codecademy.com/learn/all)
+Have no idea how to start with programming?  
+Try starting with [People Can Program](https://www.peoplecanprogram.com/index.html) or any track from [Codeacademy](https://www.codecademy.com/learn/all)
 
-Need project idea?  
+Need a project idea?  
 Check out [karan's Projects](https://github.com/karan/Projects) repo for ideas.
 
-Want project based tutorial?  
+Want a project-based tutorial?  
 Checkout [tuvttran's project-based-learning](https://github.com/tuvttran/project-based-learning) repo
 
 Stuck on something?  
-Ask people around you! Other hackers at the hacknight will be there to give a hand
+Ask people around you! The hacker community is known for being ultra collaborative :^)
 
-Credits to [sindresorhus's Awesome repo](https://github.com/sindresorhus/awesome) for most the links.
+Credits to [sindresorhus's Awesome repo](https://github.com/sindresorhus/awesome) for most of the links.
