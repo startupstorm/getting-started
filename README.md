@@ -36,10 +36,10 @@ Not sure which one to choose? Ask experienced hacker around you! They (probably)
 ### Specific Language
 Find a language's awesome-list from [this page](https://github.com/sindresorhus/awesome#programming-languages), and look for "Resources" section for good tutorials
 
-#### Contributing
+## Contributing
 Know really good tutorial / resource? PRs welcome!
 
-#### FAQ
+## FAQ
 Have no idea where to start with programming?  
 Try starting with [People Can Program](https://www.peoplecanprogram.com/index.html)  or any track from [Codeacademy](https://www.codecademy.com/learn/all)
 
