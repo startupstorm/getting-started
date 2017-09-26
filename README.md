@@ -31,6 +31,10 @@ Not sure which one to choose? Ask an experienced hacker around you! They (probab
 - [Vogella Intro to Android Development](http://www.vogella.com/tutorials/Android/article.html)
 - [Awesome Android's Resources](https://github.com/JStumpp/awesome-android#resources)
 
+### Cross-Platform (Andriod & iOS)
+- [Official React Native Getting Started Guide](https://facebook.github.io/react-native/docs/getting-started.html)
+- [Meteor Framework Tutorials](https://www.meteor.com/tutorials)
+
 ### Git
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
 - [Github Hello World](https://guides.github.com/activities/hello-world/)
