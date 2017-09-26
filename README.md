@@ -1,4 +1,7 @@
 # Getting Started
+
+<img src="https://media.giphy.com/media/3oz8xOJiQ9VtnOKAIU/giphy.gif" width="250">
+
 If you're absolutely new to programming, we recommned checking out either:
 - [People Can Program](https://www.peoplecanprogram.com/index.html) 
 - [Codeacademy](https://www.codecademy.com/learn/all)
